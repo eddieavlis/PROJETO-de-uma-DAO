@@ -10,14 +10,14 @@ Criando uma Organização Autônoma Descentralizada nos Padrões Web3
 EddieIT DAO será uma organização autônoma descentralizada focada em promover a inovação tecnológica e a educação em tecnologia da informação. A DAO funcionará com base em contratos inteligentes, assegurando transparência, eficiência e participação democrática de todos os membros.
 
 
-Objetivos
+# Objetivos
 
 ·	Fomentar o desenvolvimento de projetos tecnológicos inovadores.
 ·	Prover recursos educacionais e de capacitação em TI.
 ·	Promover uma governança descentralizada, onde as decisões são tomadas de maneira coletiva.
 
 
-Estrutura e Governança
+# Estrutura e Governança
 
 1. Governança
 
@@ -40,7 +40,7 @@ Estrutura e Governança
 ·	Implementação: Propostas aprovadas são implementadas pelos respectivos comitês.
 
 
-Setores
+# Setores
 
 1. Desenvolvimento Tecnológico
 
@@ -64,7 +64,7 @@ Setores
 ·	Democracia: Todos os membros têm voz ativa nas decisões, promovendo uma governança justa e igualitária.
 
 
-Plano de Ação
+# Plano de Ação
 
 1.	Desenvolvimento do Whitepaper: Criação de um documento detalhado explicando a missão, visão, estrutura e funcionamento da EddieIT DAO.
 
@@ -77,7 +77,7 @@ Plano de Ação
 5.	Execução e Monitoramento: Início das atividades da DAO, com monitoramento contínuo para garantir eficiência e transparência.
 
 
-Conclusão
+# Conclusão
 
 A EddieIT DAO será uma força motriz na promoção da inovação tecnológica e da educação em TI, utilizando a tecnologia blockchain para assegurar uma governança transparente e democrática. Com uma estrutura bem definida e um plano de ação claro, a EddieIT DAO estará preparada para transformar ideias inovadoras em realidade, capacitando profissionais e promovendo o desenvolvimento tecnológico.
 
