@@ -54,17 +54,20 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 
 # Setores
 
+
 1. Desenvolvimento Tecnológico
 
 ·	Financiamento de Projetos: Fornecimento de recursos para projetos inovadores em TI.
 
 ·	Parcerias: Estabelecimento de parcerias com empresas, universidades e outras entidades para fomentar a inovação.
 
+
 2. Educação e Capacitação
 
 ·	Cursos e Workshops: Oferta de cursos online e presenciais, workshops e seminários em diversas áreas de TI.
 
 ·	Certificações: Desenvolvimento de programas de certificação para validar as competências adquiridas pelos participantes.
+
 
 3. Comunidade e Colaboração
 
