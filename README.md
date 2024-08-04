@@ -2,8 +2,6 @@
 Criando uma Organização Autônoma Descentralizada nos Padrões Web3
 
 
-
-
 # Projeto: EddieIT DAO
 
 
@@ -35,9 +33,13 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 2. Comitês
 
 ·	Comitê de Desenvolvimento: Responsável por avaliar e supervisionar projetos tecnológicos submetidos à DAO.
+
 ·	Comitê de Educação: Encarregado de desenvolver e gerir programas de capacitação e educação em TI.
+
 ·	Comitê de Finanças: Gerencia os fundos da DAO, assegurando transparência e alocação eficiente dos recursos.
+
 ·	Comitê de Governança: Supervisiona o processo de governança, garantindo que as práticas da DAO sejam justas e transparentes.
+
 
 3. Mecanismo de Proposta
 
@@ -58,13 +60,11 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 
 ·	Parcerias: Estabelecimento de parcerias com empresas, universidades e outras entidades para fomentar a inovação.
 
-
 2. Educação e Capacitação
 
 ·	Cursos e Workshops: Oferta de cursos online e presenciais, workshops e seminários em diversas áreas de TI.
 
 ·	Certificações: Desenvolvimento de programas de certificação para validar as competências adquiridas pelos participantes.
-
 
 3. Comunidade e Colaboração
 
@@ -84,15 +84,11 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 
 1.	Desenvolvimento do Whitepaper: Criação de um documento detalhado explicando a missão, visão, estrutura e funcionamento da EddieIT DAO.
 
-
 2.	Desenvolvimento de Contratos Inteligentes: Programação e implementação dos contratos inteligentes que regerão a DAO.
-
 
 3.	Lançamento da Plataforma: Desenvolvimento e lançamento de uma plataforma para submissão de propostas, votação e discussão.
 
-
 4.	Campanha de Lançamento: Promoção da EddieIT DAO para atrair membros e parceiros.
-
 
 5.	Execução e Monitoramento: Início das atividades da DAO, com monitoramento contínuo para garantir eficiência e transparência.
 
