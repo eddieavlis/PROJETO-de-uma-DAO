@@ -21,6 +21,7 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 
 # Estrutura e Governança
 
+
 1. Governança
 
 ·	Token de Governança (EddieToken): Cada membro da DAO possuirá tokens de governança que representam seu poder de voto nas decisões da organização.
