@@ -13,7 +13,9 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 # Objetivos
 
 ·	Fomentar o desenvolvimento de projetos tecnológicos inovadores.
+
 ·	Prover recursos educacionais e de capacitação em TI.
+
 ·	Promover uma governança descentralizada, onde as decisões são tomadas de maneira coletiva.
 
 
