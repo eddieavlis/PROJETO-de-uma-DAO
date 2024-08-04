@@ -100,3 +100,10 @@ EddieIT DAO será uma organização autônoma descentralizada focada em promover
 # Conclusão
 
 A EddieIT DAO será uma força motriz na promoção da inovação tecnológica e da educação em TI, utilizando a tecnologia blockchain para assegurar uma governança transparente e democrática. Com uma estrutura bem definida e um plano de ação claro, a EddieIT DAO estará preparada para transformar ideias inovadoras em realidade, capacitando profissionais e promovendo o desenvolvimento tecnológico.
+
+
+Links:
+
+https://medium.com/@dao-dao
+
+https://academy.binance.com/pt/articles/how-to-create-a-dao
